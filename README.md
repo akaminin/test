@@ -1,4 +1,4 @@
-# test
+# node-red-contrib-monique
 
 Пример сообщения:
 ```javascript
